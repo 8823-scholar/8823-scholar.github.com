@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://8823-scholar.github.io/atom.xml" rel="self"/>
-  <link href="http://8823-scholar.github.io/"/>
-  <updated>2013-08-19T01:03:02+09:00</updated>
-  <id>http://8823-scholar.github.io/</id>
+  <title><![CDATA[生まれる時代をまちがえた]]></title>
+  <link href="http://pages.hayabusal-lab.jp/atom.xml" rel="self"/>
+  <link href="http://pages.hayabusal-lab.jp/"/>
+  <updated>2013-08-19T01:59:18+09:00</updated>
+  <id>http://pages.hayabusal-lab.jp/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[智史之介]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
